@@ -1,0 +1,32 @@
+h2{
+    text-align: center;
+    color: blueviolet;
+}
+form{
+    width: 500px;
+    display: block;
+    margin: auto;
+    margin-top: 100px;
+}
+input[type="text"],
+input[type="password"],
+input[type="number"],
+input[type="date"],
+input[type="email"],
+input[type="file"],
+select,textarea{
+
+    width: 500px;
+    border-radius: 5px;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+button{
+    display: block;
+    margin: auto;
+
+}
+legend{
+    background-color: brown;
+    color: antiquewhite;
+}
